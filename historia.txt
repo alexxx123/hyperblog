@@ -3,3 +3,5 @@ Historia Inicio
 Desarrollador en Grupo Salinas
 
 Nuevo desarrollador con correo Jano
+
+Ahora trabaja otro usuario desde un fork
